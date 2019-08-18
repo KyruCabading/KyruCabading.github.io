@@ -28,7 +28,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: Can <strong>learn new Technologies &amp; processes </strong>to meet business
+  headline: Can <strong>learn new technologies &amp; processes </strong>to meet business
     goals.<strong><span class="light"><br></span></strong><span class="light"><br></span>
   content: 'Flutter App '
   media:
