@@ -8,7 +8,7 @@ page_sections:
   logo: ''
   navigation:
   - link: "/"
-    link_text: Home
+    link_text: Kyru Cabading
   cta:
     url: mailto:kyrusri@gmail.com
     button_text: Contact Kyru Cabading
