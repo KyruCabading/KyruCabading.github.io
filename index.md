@@ -42,7 +42,7 @@ page_sections:
   content: I created the <strong><em>PCSO Lotto Results</em></strong> app to learn
     <strong>Flutter</strong>,<strong> release my first android app on the Google Playstore</strong>,
     &amp;<strong> product management</strong>.<br><br><a href="https://github.com/KyruCabading/lotto-results-flutter"
-    title="">Code</a> | <a href="https://play.google.com/store/apps/details?id=com.fiestaapps.pcsolotto"
+    title="PCSO Lotto Results">Code</a> | <a href="https://play.google.com/store/apps/details?id=com.fiestaapps.pcsolotto"
     title="">Google Playstore</a>
   media:
     image: "/uploads/2019/08/18/PCSO Lotto App"
