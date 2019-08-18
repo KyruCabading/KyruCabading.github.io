@@ -27,6 +27,16 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
+  media_alignment: Left
+  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
+    edits throughout your new site</span>
+  content: Each block comes with custom Front Matter that can easily be edited in
+    Forestry's UI.
+  media:
+    image: "/uploads/2018/06/21/edit.gif"
+    alt_text: Customize Blocks
+- template: content-feature
+  block: feature-1
   media_alignment: Right
   headline: Can <strong>learn new technologies &amp; processes </strong>to meet business
     goals.<strong><span class="light"><br></span></strong><span class="light"><br></span>
@@ -38,16 +48,6 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
-  media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
