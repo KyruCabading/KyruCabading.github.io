@@ -28,8 +28,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
+  headline: Fluent in <strong>React, NextJS, GraphQL</strong><span class="light">.</span>
   content: Each block comes with custom Front Matter that can easily be edited in
     Forestry's UI.
   media:
