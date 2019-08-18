@@ -30,9 +30,9 @@ page_sections:
   media_alignment: Left
   headline: Can <strong>learn new technologies &amp; processes </strong>to meet business
     goals.<strong><span class="light"><br></span></strong><span class="light"><br></span>
-  content: 'PCSO Lotto Results was an app I created to learn <strong>flutter</strong>,<strong>
-    release my first android app on the Google Playstore</strong>, &amp; <strong>practice
-    product management</strong> in one project. '
+  content: "<strong><em>PCSO Lotto Results</em></strong> was an app I created to learn
+    <strong>Flutter</strong>,<strong> release my first android app on the Google Playstore</strong>,
+    &amp;<strong> product management</strong> in one project. "
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
