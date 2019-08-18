@@ -43,7 +43,7 @@ page_sections:
     <strong>Flutter</strong>,<strong> release my first android app on the Google Playstore</strong>,
     &amp;<strong> product management</strong> in one project.
   media:
-    image: ''
+    image: "/uploads/2019/08/18/PCSO Lotto App"
     alt_text: PCSO Lotto Results Mockup
 - template: 1-column-text
   block: one-column-1
