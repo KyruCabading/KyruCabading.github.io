@@ -11,7 +11,7 @@ page_sections:
     link_text: Kyru Cabading
   cta:
     url: mailto:kyrusri@gmail.com
-    button_text: Contact Kyru Cabading
+    button_text: Contact
 - template: hero-banner-w-image
   block: hero-2
   headline: Kyru Cabading<br><strong>software developer</strong>
