@@ -11,7 +11,7 @@ page_sections:
     link_text: Home
   cta:
     url: mailto:kyrusri@gmail.com
-    button_text: Contact
+    button_text: Contact Kyru Cabading
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
