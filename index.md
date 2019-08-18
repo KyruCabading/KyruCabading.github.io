@@ -30,9 +30,10 @@ page_sections:
   media_alignment: Left
   headline: Can <strong>learn new technologies &amp; processes </strong>to meet business
     goals.<strong><span class="light"><br></span></strong><span class="light"><br></span>
-  content: "<strong><em>PCSO Lotto Results</em></strong> was an app I created to learn
+  content: <strong><em>PCSO Lotto Results</em></strong> was an app I created to learn
     <strong>Flutter</strong>,<strong> release my first android app on the Google Playstore</strong>,
-    &amp;<strong> product management</strong> in one project. "
+    &amp;<strong> product management</strong> in one project. <br><br><a href="google.com"
+    title="">&lt;code/&gt;</a> | <a href="google.com" title="">Google Playstore</a>
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
