@@ -32,9 +32,10 @@ page_sections:
     goals.<strong><span class="light"><br></span></strong><span class="light"><br></span>
   content: I created the <strong><em>PCSO Lotto Results</em></strong> app to learn
     <strong>Flutter</strong>,<strong> release my first android app on the Google Playstore</strong>,
-    &amp;<strong> product management</strong> in one project. <br><a href="google.com"
-    title=""><img src="/uploads/2019/08/18/896535al1Ykfdt.gif"></a><br><a href="google.com"
-    title="">&lt;code/&gt;</a> | <a href="google.com" title="">Google Playstore</a>
+    &amp;<strong> product management</strong> in one project. <br>&lt;a href="hello&gt;Hi&lt;/a&gt;<br><br><br><a
+    href="google.com" title=""><img src="/uploads/2019/08/18/896535al1Ykfdt.gif"></a><br><a
+    href="google.com" title="">&lt;code/&gt;</a> | <a href="google.com" title="">Google
+    Playstore</a>
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
