@@ -29,10 +29,9 @@ page_sections:
   background_image: ''
 - template: 1-column-text
   block: one-column-1
-  headline: Kyru's Go-to Stack
-  content: I'm fluent in <strong>React, NextJS, &amp; GraphQL</strong> (<a href="https://medium.com/@karloluis/rng-react-next-js-graphql-can-slay-the-mean-stack-f580ac04b830"
-    title="">RNG</a>) and this has become my favorite go to when building progressive
-    web apps!
+  headline: Favorite Technologies
+  content: Here's a complete list of all the frameworks &amp; technologies I am either
+    fluent in or currently dabbling in on my projects.
 - template: content-feature
   block: feature-1
   media_alignment: Left
