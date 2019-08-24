@@ -20,7 +20,7 @@ page_sections:
     url: mailto:kyrusri@gmail.com
     button_text: Get in touch
   image:
-    image: "/uploads/2019/08/24/product-shot-2-min.png"
+    image: "/uploads/2019/08/24/product-shot-2-min-small.png"
     alt_text: ''
     headline: Hello
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
@@ -50,11 +50,12 @@ page_sections:
     content: ''
   col_2:
     headline: GoScope
-    content: <img src="/uploads/2019/08/18/896535al1Ykfdt.gif"><br><br>Input any address
-      and show a map of all schools/educational facilities within 100-meters. <br><br><strong>Why?</strong>
-      <br>Tobacco advertising is prohibited within 100-meters of educational facilities.
-      This solution helps tobacco companies comply with laws &amp; regulations.<br><br><strong>Features<br></strong>Google
-      Maps Platform, Mapbox Maps, Server-side rendering
+    content: <img src="/uploads/2019/08/24/product-shot-2-min-small.png"><br><br>Input
+      any address and show a map of all schools/educational facilities within 100-meters.
+      <br><br><strong>Why?</strong> <br>Tobacco advertising is prohibited within 100-meters
+      of educational facilities. This solution helps tobacco companies comply with
+      laws &amp; regulations.<br><br><strong>Features<br></strong>Google Maps Platform,
+      Mapbox Maps, Server-side rendering
   col_3:
     headline: Marketing Application
     content: Showcases bar outlets within the Poblacion, Philippines Area. <br><br><strong>Why?</strong>
