@@ -31,8 +31,8 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: Fluent in <strong>React, NextJS, GraphQL</strong><span class="light">.</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  content: 'Flexible, fast code that scales is why I love this stack. React is incredibly
+    powerful in creating interfaces through reusable components. NextJS '
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
