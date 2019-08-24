@@ -25,6 +25,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
+    headline: Hello
   background_image: ''
 - template: content-feature
   block: feature-1
