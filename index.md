@@ -26,6 +26,13 @@ page_sections:
     alt_text: Product Shot
     headline: Hello
   background_image: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: Hi, I'm Kyru. Nice to meet you!
+  content: My main area of expertise is front-end development. HTML, CSS, Javascript
+    (Typescript). I have a degree in Entrepreneurship which lends a business-mindset
+    approach whenever I am building a product. I also have full-stack development
+    experience with Javascript backend technologies like GraphQL and Firebase.
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -35,6 +42,20 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Projects in React, NextJS, GraphQL
+    content: ''
+  col_2:
+    headline: GoScope
+    content: "<strong>What:</strong> GoScope allows you to input any address and map
+      out all schools/educational facilities within 100-meters. <br><br><strong>Why?</strong>
+      Tobacco advertising is prohibited within 100-meters of any educational facility.
+      This was a solution to help tobacco companies comply with laws &amp; regulations."
+  col_3:
+    headline: ''
+    content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -50,13 +71,6 @@ page_sections:
   media:
     image: "/uploads/2019/08/18/PCSO Lotto App"
     alt_text: PCSO Lotto Results Mockup
-- template: 1-column-text
-  block: one-column-1
-  headline: Hi, I'm Kyru. Nice to meet you
-  content: My main area of expertise is front-end development. HTML, CSS, Javascript
-    (Typescript). I have a degree in Entrepreneurship which lends a business-mindset
-    approach whenever I am building a product. I also have full-stack development
-    experience with Javascript backend technologies like GraphQL and Firebase.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
