@@ -18,9 +18,9 @@ page_sections:
   content: "I believe software development is like <strong>magic!</strong> \U0001F52E<br>With
     the right &lt;/&gt;, I can <strong>build anything you can think of!</strong>"
   cta:
-    enabled: false
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    enabled: true
+    url: google.com
+    button_text: Contact Me
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
@@ -53,9 +53,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Hi, I'm Kyru. Nice to meet you
-  content: Here's a complete list of all the frameworks &amp; technologies I am either
-    fluent in or currently dabbling with on my projects.<br><br><img src="/uploads/2019/08/24/react.jpg"><img
-    src="/uploads/2019/08/24/nextjs.jpg"><img src="/uploads/2019/08/24/nextjs-1.jpg">
+  content: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
@@ -63,8 +61,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Favorite Technologies & Frameworks
-  content: "<p>Here's some of the major frameworks &amp; technologies I am fluent
-    in or currently dabbling with on my projects.</p><h6><em>WEB</em></h6><h2>React<br>NextJS<br>Material
+  content: "<p>Here are some of the major frameworks &amp; technologies work with!</p><h6><em>WEB</em></h6><h2>React<br>NextJS<br>Material
     UI</h2><p></p><h6><em>MOBILE</em></h6><h2>React Native<br>Flutter</h2><p></p><h6><em>BACKEND</em></h6><h2>Apollo
     GraphQL<br>Firebase<br>Prisma</h2><p></p><h6><em>ANALYTICS</em></h6><h2>Segment</h2><h2>Google
     Analytics</h2><h2>Fullstory</h2><h2>Mixpanel</h2><p></p><p></p><h5>and more!...<br></h5><p></p>"
