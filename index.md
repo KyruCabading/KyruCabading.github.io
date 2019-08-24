@@ -19,8 +19,8 @@ page_sections:
     the right &lt;/&gt;, I can <strong>build anything you can think of!</strong>"
   cta:
     enabled: true
-    url: google.com
-    button_text: Contact Me
+    url: mailto:kyrusri@gmail.com
+    button_text: Get in touch
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
