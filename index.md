@@ -20,7 +20,7 @@ page_sections:
     url: mailto:kyrusri@gmail.com
     button_text: Get in touch
   image:
-    image: "/uploads/2019/08/24/product-shot-2-min-small.png"
+    image: "/uploads/2019/08/24/project-1-min.png"
     alt_text: ''
     headline: Hello
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
