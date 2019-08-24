@@ -63,10 +63,10 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Favorite Technologies & Frameworks
-  content: "<p>Here's some of the major frameworks &amp; technologies I am either
-    fluent in or currently dabbling with on my projects.</p><h6><em>WEB</em></h6><h2>React<br>NextJS<br>Material
+  content: "<p>Here's some of the major frameworks &amp; technologies I am fluent
+    in or currently dabbling with on my projects.</p><h6><em>WEB</em></h6><h2>React<br>NextJS<br>Material
     UI</h2><p></p><h6><em>MOBILE</em></h6><h2>React Native<br>Flutter</h2><p></p><h6><em>BACKEND</em></h6><h2>Apollo
-    GraphQL<br>Firebase<br>Prisma</h2><p></p><h5><em>ANALYTICS</em></h5><h2>Segment</h2><h2>Google
+    GraphQL<br>Firebase<br>Prisma</h2><p></p><h6><em>ANALYTICS</em></h6><h2>Segment</h2><h2>Google
     Analytics</h2><h2>Fullstory</h2><h2>Mixpanel</h2><p></p><p></p><h5>and more!...<br></h5><p></p>"
 - template: simple-footer
   block: footer-1
