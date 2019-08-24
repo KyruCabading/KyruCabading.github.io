@@ -73,10 +73,6 @@ page_sections:
   media:
     image: "/uploads/2019/08/18/PCSO Lotto App"
     alt_text: PCSO Lotto Results Mockup
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
 - template: detail-content
   block: text-1
   headline: Favorite Technologies & Frameworks
@@ -86,7 +82,7 @@ page_sections:
     Analytics</h2><h2>Fullstory</h2><h2>Mixpanel</h2><p></p><p></p><h5>and more!...<br></h5><p></p>"
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: Thank you!
 
 ---
 foo bar
