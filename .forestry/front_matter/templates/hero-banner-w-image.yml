@@ -14,15 +14,6 @@ fields:
   name: image
   label: Image
   fields:
-  - name: headline
-    type: textarea
-    default: ''
-    config:
-      required: false
-      wysiwyg: false
-      schema:
-        format: markdown
-    label: Headline
   - type: file
     name: image
     label: Image
