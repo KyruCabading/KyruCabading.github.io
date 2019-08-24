@@ -34,7 +34,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: Fluent in <strong>React, NextJS, GraphQL</strong><span class="light">.</span>
+  headline: Fluent in <strong>React, NextJS, &amp; GraphQL</strong><span class="light">.</span>
   content: 'Flexible, fast code that scales is why I love this stack. <br><br><strong>React</strong>
     is incredibly powerful in creating interfaces through reusable components. <br><br><strong>NextJS</strong>
     keeps the app lightning fast with server-side rendering. <br><br><strong>GraphQL</strong>
