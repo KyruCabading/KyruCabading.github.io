@@ -27,11 +27,6 @@ page_sections:
     alt_text: Product Shot
     headline: Hello
   background_image: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: Favorite Technologies
-  content: Here's a complete list of all the frameworks &amp; technologies I am either
-    fluent in or currently dabbling with on my projects.
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -54,6 +49,11 @@ page_sections:
   media:
     image: "/uploads/2019/08/18/PCSO Lotto App"
     alt_text: PCSO Lotto Results Mockup
+- template: 1-column-text
+  block: one-column-1
+  headline: Favorite Technologies
+  content: Here's a complete list of all the frameworks &amp; technologies I am either
+    fluent in or currently dabbling with on my projects.<br><br>
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
