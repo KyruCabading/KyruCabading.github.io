@@ -41,11 +41,13 @@ page_sections:
   media_alignment: Right
   headline: Can <strong>learn new technologies &amp; processes </strong>to meet business
     goals.<strong><span class="light"><br></span></strong><span class="light"><br></span>
-  content: I created the <strong><em>PCSO Lotto Results</em></strong> app to learn
-    <strong>Flutter</strong>,<strong> release my first android app on the Google Playstore</strong>,
-    &amp;<strong> product management</strong>.<br><br><a href="https://github.com/KyruCabading/lotto-results-flutter"
-    title="PCSO Lotto Results">Code</a> | <a href="https://play.google.com/store/apps/details?id=com.fiestaapps.pcsolotto"
-    title="">Google Playstore</a>
+  content: 'I created the <strong>PCSO Lotto Results</strong> app to <em><span style="text-decoration:
+    underline;">learn Flutter</span></em>,<strong> <br></strong><em><span style="text-decoration:
+    underline;">release my first app on the Google Playstore</span></em>, <br>&amp;<strong>
+    </strong><em><span style="text-decoration: underline;">product management</span></em>.<br><br><a
+    href="https://github.com/KyruCabading/lotto-results-flutter" title="PCSO Lotto
+    Results Github Repo">&lt;Code/&gt;</a> | <a href="https://play.google.com/store/apps/details?id=com.fiestaapps.pcsolotto"
+    title="">Google Playstore</a>'
   media:
     image: "/uploads/2019/08/18/PCSO Lotto App"
     alt_text: PCSO Lotto Results Mockup
