@@ -53,22 +53,18 @@ page_sections:
   block: one-column-1
   headline: Favorite Technologies
   content: Here's a complete list of all the frameworks &amp; technologies I am either
-    fluent in or currently dabbling with on my projects.<br><br>
+    fluent in or currently dabbling with on my projects.<br><br><img src="/uploads/2019/08/24/react.jpg"><img
+    src="/uploads/2019/08/24/nextjs.jpg"><img src="/uploads/2019/08/24/nextjs-1.jpg">
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
   caption: All Available Blocks
 - template: detail-content
   block: text-1
-  headline: Steps to Build a Site!
-  content: <p>uBuild is an open-source Jekyll based theme that doubles as a builder
-    tool inside the Forestry content manager. It's easy to get started!</p><ol><li><p>Fork
-    the <a href="https://github.com/forestryio/ubuild-jekyll">repo</a> and import
-    the site into <a href="https://forestry.io/">Forestry</a> (or use <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks#even-quicker-start">our
-    magic button</a>).</p></li><li><p>Click on 'Add New' in Forestry and select the
-    Page-Builder template.</p></li><li><p>Add and customize the available Blocks and
-    preview them as you go along.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li></ol>
+  headline: Favorite Technologies
+  content: "<p>Here's some of the major frameworks &amp; technologies I am either
+    fluent in or currently dabbling with on my projects.</p><h2>React<br>NextJS<br>Apollo
+    GraphQL<br>Prisma <br>Flutter<br>Firebase<br>Material UI<br><br></h2><p></p>"
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
