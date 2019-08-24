@@ -81,6 +81,14 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Thank you!
+- template: 2-column-text
+  block: two-column-1
+  col_2:
+    headline: Fluent in React, NextJS, & GraphQL.
+    content: A
+  col_1:
+    headline: ''
+    content: ''
 
 ---
 foo bar
