@@ -16,8 +16,8 @@ page_sections:
   block: hero-2
   headline: Kyru Cabading<br><strong>software developer</strong>
   content: 'I believe software development is like <strong><em>magic</em></strong>!
-    You can create anything you want  if you just learn the spells (code). Just like
-    cooking! '
+    You can build anything you can think of if you know the right spells (code). Just
+    like cooking! '
   cta:
     enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
