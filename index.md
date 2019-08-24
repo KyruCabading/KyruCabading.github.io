@@ -15,8 +15,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Kyru Cabading<br><strong>software developer</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: 'I believe software development is like magic! You can create anything
+    you want  if you just learn the spells (code). Like cooking! '
   cta:
     enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
