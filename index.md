@@ -65,7 +65,7 @@ page_sections:
   block: text-1
   headline: Favorite Technologies & Frameworks
   content: "<p>Here are some of the major frameworks &amp; technologies work with!</p><h6><em>WEB</em></h6><h2>React<br>NextJS<br>Material
-    UI</h2><p></p><h6><em>MOBILE</em></h6><h2>React Native<br>Flutter</h2><p></p><h6><em>BACKEND</em></h6><h2>Apollo
+    UI</h2><p></p><h6><em>MOBILE</em></h6><h2>React Native<br>Flutter</h2><p></p><h6><em>BACKEND</em></h6><h2>AWS<br>Apollo
     GraphQL<br>Firebase<br>Prisma</h2><p></p><h6><em>ANALYTICS</em></h6><h2>Segment</h2><h2>Google
     Analytics</h2><h2>Fullstory</h2><h2>Mixpanel</h2><p></p><p></p><h5>and more!...<br></h5><p></p>"
 - template: simple-footer
