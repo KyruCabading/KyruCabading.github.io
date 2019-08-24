@@ -20,10 +20,10 @@ page_sections:
     url: mailto:kyrusri@gmail.com
     button_text: Get in touch
   image:
-    image: "/uploads/2019/08/24/product-shot-3.png"
+    image: "/uploads/2019/08/24/product-shot-2-min.png"
     alt_text: ''
     headline: Hello
-  background_image: ''
+  background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: 1-column-text
   block: one-column-1
   headline: Hi, I'm Kyru. Nice to meet you!
@@ -50,8 +50,8 @@ page_sections:
     content: ''
   col_2:
     headline: GoScope
-    content: Input any address and show a map of all schools/educational facilities
-      within 100-meters. <br><br><img src="/uploads/2019/08/24/product-shot-3.png"><br><br><strong>Why?</strong>
+    content: <img src="/uploads/2019/08/18/896535al1Ykfdt.gif"><br><br>Input any address
+      and show a map of all schools/educational facilities within 100-meters. <br><br><strong>Why?</strong>
       <br>Tobacco advertising is prohibited within 100-meters of educational facilities.
       This solution helps tobacco companies comply with laws &amp; regulations.<br><br><strong>Features<br></strong>Google
       Maps Platform, Mapbox Maps, Server-side rendering
@@ -79,7 +79,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Favorite Technologies & Frameworks
-  content: "<p>Here are some of the major frameworks &amp; technologies work with!</p><h6><em>WEB</em></h6><h2>React<br>NextJS<br>Material
+  content: "<p>Here are some of the major frameworks &amp; technologies I work with!</p><h6><em>WEB</em></h6><h2>React<br>NextJS<br>Material
     UI</h2><p></p><h6><em>MOBILE</em></h6><h2>React Native<br>Flutter</h2><p></p><h6><em>BACKEND</em></h6><h2>AWS<br>Apollo
     GraphQL<br>Firebase<br>Prisma</h2><p></p><h6><em>ANALYTICS</em></h6><h2>Segment</h2><h2>Google
     Analytics</h2><h2>Fullstory</h2><h2>Mixpanel</h2><p></p><p></p><h5>and more!...<br></h5><p></p>"
