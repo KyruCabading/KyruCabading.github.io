@@ -64,7 +64,7 @@ page_sections:
   headline: Favorite Technologies
   content: "<p>Here's some of the major frameworks &amp; technologies I am either
     fluent in or currently dabbling with on my projects.</p><h2>React<br>NextJS<br>Apollo
-    GraphQL<br>Prisma <br>Flutter<br>Firebase<br>Material UI<br><br></h2><p></p>"
+    GraphQL<br>Prisma <br>Flutter<br>Firebase<br>Material UI</h2><p></p><h5>and more!...<br></h5><p></p>"
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
