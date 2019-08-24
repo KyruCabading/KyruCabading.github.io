@@ -46,7 +46,7 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: Projects
+    headline: Projects in Code
     content: ''
   col_2:
     headline: GoScope
