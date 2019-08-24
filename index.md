@@ -1,20 +1,18 @@
 ---
 layout: blocks
-title: Kyru Cabading | Software Developer
+title: Kyru | Software Developer
 date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2019/08/18/code.png"
-  navigation:
-  - link: "/"
-    link_text: Kyru Cabading
+  navigation: []
   cta:
     url: mailto:kyrusri@gmail.com
     button_text: Contact
 - template: hero-banner-w-image
   block: hero-2
-  headline: Kyru Cabading<br><strong>software developer</strong>
+  headline: Kyru,<br><strong>software developer</strong>
   content: "I believe software development is like <strong>magic!</strong> \U0001F52E<br>With
     the right &lt;/&gt;, I can <strong>build anything you can think of!</strong>"
   cta:
@@ -22,8 +20,8 @@ page_sections:
     url: mailto:kyrusri@gmail.com
     button_text: Get in touch
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
+    image: ''
+    alt_text: ''
     headline: Hello
   background_image: ''
 - template: 1-column-text
