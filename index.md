@@ -31,7 +31,7 @@ page_sections:
   block: one-column-1
   headline: Favorite Technologies
   content: Here's a complete list of all the frameworks &amp; technologies I am either
-    fluent in or currently dabbling in on my projects.
+    fluent in or currently dabbling with on my projects.
 - template: content-feature
   block: feature-1
   media_alignment: Left
