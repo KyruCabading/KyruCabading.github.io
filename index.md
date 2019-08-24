@@ -30,7 +30,8 @@ page_sections:
   content: My main area of expertise is front-end development. HTML, CSS, Javascript
     (Typescript). I have a degree in Entrepreneurship which lends a business-mindset
     approach whenever I am building a product. I also have full-stack development
-    experience with Javascript backend technologies like GraphQL and Firebase.
+    experience with Javascript backend technologies like GraphQL and Firebase.<br><br>See
+    reasons below on how I could be a fit to your team!
 - template: content-feature
   block: feature-1
   media_alignment: Left
