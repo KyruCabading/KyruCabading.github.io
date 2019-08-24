@@ -20,7 +20,7 @@ page_sections:
     url: mailto:kyrusri@gmail.com
     button_text: Get in touch
   image:
-    image: ''
+    image: "/uploads/2019/08/24/product-shot-3.png"
     alt_text: ''
     headline: Hello
   background_image: ''
@@ -51,9 +51,9 @@ page_sections:
   col_2:
     headline: GoScope
     content: Input any address and show a map of all schools/educational facilities
-      within 100-meters. <br><br><strong>Why?</strong> <br>Tobacco advertising is
-      prohibited within 100-meters of educational facilities. This solution helps
-      tobacco companies comply with laws &amp; regulations.<br><br><strong>Features<br></strong>Google
+      within 100-meters. <br><br><img src="/uploads/2019/08/24/product-shot-3.png"><br><br><strong>Why?</strong>
+      <br>Tobacco advertising is prohibited within 100-meters of educational facilities.
+      This solution helps tobacco companies comply with laws &amp; regulations.<br><br><strong>Features<br></strong>Google
       Maps Platform, Mapbox Maps, Server-side rendering
   col_3:
     headline: Marketing Application
