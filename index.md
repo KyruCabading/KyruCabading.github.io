@@ -27,6 +27,12 @@ page_sections:
     alt_text: Product Shot
     headline: Hello
   background_image: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: My Favorite Technologies
+  content: I'm fluent in <strong>React, NextJS, &amp; GraphQL</strong> (<a href="https://medium.com/@karloluis/rng-react-next-js-graphql-can-slay-the-mean-stack-f580ac04b830"
+    title="">RNG</a>) and this has become my favorite go to when building progressive
+    web apps!
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -49,12 +55,6 @@ page_sections:
   media:
     image: "/uploads/2019/08/18/PCSO Lotto App"
     alt_text: PCSO Lotto Results Mockup
-- template: 1-column-text
-  block: one-column-1
-  headline: Fluent in these Technologies
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
