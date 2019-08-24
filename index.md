@@ -54,8 +54,11 @@ page_sections:
       Tobacco advertising is prohibited within 100-meters of any educational facility.
       This was a solution to help tobacco companies comply with laws &amp; regulations."
   col_3:
-    headline: ''
-    content: ''
+    headline: Marketing Application
+    content: "<strong>What: </strong>An application that showcases bar outlets within
+      the Poblacion, Philippines Area. <br><br><strong>Why?</strong> Field marketing
+      executives use this tool to beautifully present their client's outlets in order
+      to gain more leads in Business Development."
 - template: content-feature
   block: feature-1
   media_alignment: Right
