@@ -53,7 +53,10 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Hi, I'm Kyru. Nice to meet you
-  content: ''
+  content: My main area of expertise is front-end development. HTML, CSS, Javascript
+    (Typescript). I have a degree in Entrepreneurship which lends a business-mindset
+    approach whenever I am building a product. I also have full-stack development
+    experience with Javascript backend technologies like GraphQL and Firebase.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
