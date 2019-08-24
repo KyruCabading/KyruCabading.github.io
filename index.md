@@ -50,16 +50,17 @@ page_sections:
     content: ''
   col_2:
     headline: GoScope
-    content: "<strong>What:</strong> GoScope allows you to input any address and map
-      out all schools/educational facilities within 100-meters. <br><br><strong>Why?</strong>
-      Tobacco advertising is prohibited within 100-meters of any educational facility.
-      This was a solution to help tobacco companies comply with laws &amp; regulations."
+    content: Input any address and show a map of all schools/educational facilities
+      within 100-meters. <br><br><strong>Why?</strong> <br>Tobacco advertising is
+      prohibited within 100-meters of educational facilities. This solution helps
+      tobacco companies comply with laws &amp; regulations.<br><br><strong>Features<br></strong>Google
+      Maps Platform, Mapbox Maps, Server-side rendering
   col_3:
     headline: Marketing Application
-    content: "<strong>What: </strong>An application that showcases bar outlets within
-      the Poblacion, Philippines Area. <br><br><strong>Why?</strong> Field marketing
-      executives use this tool to beautifully present their client's outlets in order
-      to gain more leads in Business Development."
+    content: Showcases bar outlets within the Poblacion, Philippines Area. <br><br><strong>Why?</strong>
+      <br>Field executives use this tool to beautifully present their client's outlets
+      and gain more leads for business development<br><br><strong>Features<br></strong>Server-side
+      rendering, Google sheets Backend :D, chart visualizations, custom motion animations
 - template: content-feature
   block: feature-1
   media_alignment: Right
