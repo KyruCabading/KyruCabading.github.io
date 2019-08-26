@@ -43,25 +43,22 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: Projects with React
-    content: ''
+- template: 2-column-text
+  block: two-column-1
   col_2:
-    headline: GoScope
-    content: <img src="/uploads/2019/08/24/product-shot-2-min-small.png"><br><br>Input
-      any address and show a map of all schools/educational facilities within 100-meters.
-      <br><br><strong>Why?</strong> <br>Tobacco advertising is prohibited within 100-meters
-      of educational facilities. This solution helps tobacco companies comply with
-      laws &amp; regulations.<br><br><strong>Features<br></strong>Google Maps Platform,
-      Mapbox Maps, Server-side rendering
-  col_3:
-    headline: Marketing Application
-    content: Showcases bar outlets within the Poblacion, Philippines Area. <br><br><strong>Why?</strong>
-      <br>Field executives use this tool to beautifully present their client's outlets
-      and gain more leads for business development<br><br><strong>Features<br></strong>Server-side
+    content: <img src="/uploads/2019/08/26/project-3-mini.jpg"><br>Showcases bar outlets
+      within the Poblacion, Philippines Area. <br><br><strong>Why?</strong> <br>Field
+      executives use this tool to beautifully present their client's outlets and gain
+      more leads for business development<br><br><strong>Features<br></strong>Server-side
       rendering, Google sheets Backend :D, chart visualizations, custom motion animations
+    headline: Brand Partners App
+  col_1:
+    headline: GoScope App
+    content: <img src="/uploads/2019/08/26/project-1-mini.jpg"><br>Input any address
+      and show a map of all schools/educational facilities within 100-meters. <br><br><strong>Why?</strong>
+      <br>Tobacco advertising is prohibited within 100-meters of educational facilities.
+      This solution helps tobacco companies comply with laws &amp; regulations.<br><br><strong>Features<br></strong>Google
+      Maps Platform, Mapbox Maps, Server-side rendering
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -87,17 +84,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Thank you!
-- template: 2-column-text
-  block: two-column-1
-  col_2:
-    content: Showcases bar outlets within the Poblacion, Philippines Area. <br><br><strong>Why?</strong>
-      <br>Field executives use this tool to beautifully present their client's outlets
-      and gain more leads for business development<br><br><strong>Features<br></strong>Server-side
-      rendering, Google sheets Backend :D, chart visualizations, custom motion animations
-    headline: Brand Partners App
-  col_1:
-    headline: ''
-    content: ''
 
 ---
 foo bar
