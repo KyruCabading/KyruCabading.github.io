@@ -50,15 +50,18 @@ page_sections:
       within the Poblacion, Philippines Area. <br><br><strong>Why?</strong> <br>Field
       executives use this tool to beautifully present their client's outlets and gain
       more leads for business development<br><br><strong>Features<br></strong>Server-side
-      rendering, Google sheets Backend :D, chart visualizations, custom motion animations
+      rendering, Google sheets Backend :D, chart visualizations, custom motion animations<br><br><br>Visit
+      App | <a href="https://github.com/KyruCabading/brand-partners" title="">Github
+      Repo</a>
     headline: Brand Partners App
   col_1:
     headline: GoScope App
-    content: <img src="/uploads/2019/08/26/project-1-mini.jpg"><br>Input any address
-      and show a map of all schools/educational facilities within 100-meters. <br><br><strong>Why?</strong>
-      <br>Tobacco advertising is prohibited within 100-meters of educational facilities.
-      This solution helps tobacco companies comply with laws &amp; regulations.<br><br><strong>Features<br></strong>Google
-      Maps Platform, Mapbox Maps, Server-side rendering
+    content: <img src="/uploads/2019/08/26/project-1-mini.jpg"><br>Monitors all schools/educational
+      facilities within a location<br><br><strong>Why?</strong> <br>Tobacco advertising
+      is prohibited within 100-meters of educational facilities. This solution helps
+      tobacco companies comply with laws &amp; regulations.<br><br><strong>Features<br></strong>Google
+      Maps Platform, Mapbox Maps, Server-side rendering<br><br><a href="google.com"
+      title=""><strong>Visit App</strong></a><strong> | Github</strong>
 - template: content-feature
   block: feature-1
   media_alignment: Right
