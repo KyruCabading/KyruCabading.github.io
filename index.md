@@ -55,7 +55,7 @@ page_sections:
       Repo</strong></a>
     headline: Brand Partners App
   col_1:
-    headline: GoScope App
+    headline: 'GoScope App '
     content: <img src="/uploads/2019/08/26/project-1-mini.jpg"><br>Monitors all schools/educational
       facilities within a location<br><br><strong>Why?</strong> <br>Tobacco advertising
       is prohibited within 100-meters of educational facilities. This solution helps
