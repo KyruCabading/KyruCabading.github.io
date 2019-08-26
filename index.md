@@ -73,9 +73,10 @@ page_sections:
     underline;">learn Flutter</span></em>,<strong> <br></strong><em><span style="text-decoration:
     underline;">release my first app on the Google Playstore</span></em>, <br>&amp;<strong>
     </strong><em><span style="text-decoration: underline;">product management</span></em>.<br><br><a
+    href="https://play.google.com/store/apps/details?id=com.fiestaapps.pcsolotto"
+    title="PCSO Lotto Results"><strong>Google Playstore</strong></a><strong> | </strong><a
     href="https://github.com/KyruCabading/lotto-results-flutter" title="PCSO Lotto
-    Results Github Repo">&lt;Code/&gt;</a> | <a href="https://play.google.com/store/apps/details?id=com.fiestaapps.pcsolotto"
-    title="">Google Playstore</a>'
+    Results Github Repo"><strong>Github</strong></a>'
   media:
     image: "/uploads/2019/08/18/PCSO Lotto App"
     alt_text: PCSO Lotto Results Mockup
