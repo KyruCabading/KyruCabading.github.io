@@ -59,8 +59,7 @@ page_sections:
       facilities within a location<br><br><strong>Why?</strong> <br>Tobacco advertising
       is prohibited within 100-meters of educational facilities. This solution helps
       tobacco companies comply with laws &amp; regulations.<br><br><strong>Features<br></strong>Google
-      Maps Platform, Mapbox Maps, Server-side rendering<br><br><a href="google.com"
-      title=""><strong>Visit App</strong></a><strong> | Github</strong>
+      Maps Platform, Mapbox Maps, Server-side rendering<br><br><strong>View | Github</strong>
 - template: content-feature
   block: feature-1
   media_alignment: Right
