@@ -57,9 +57,10 @@ page_sections:
     headline: Brand Partners App
   col_1:
     headline: GoScope App
-    content: <br>Monitors all schools/educational facilities within a location<br><br><strong>Why?</strong>
-      <br>Tobacco advertising is prohibited within 100-meters of educational facilities.
-      This solution helps tobacco companies comply with laws &amp; regulations.<br><br><strong>Features<br></strong>Google
+    content: <img src="/uploads/2019/08/26/project-1-mini.jpg"><br>Monitors all schools/educational
+      facilities within a location<br><br><strong>Why?</strong> <br>Tobacco advertising
+      is prohibited within 100-meters of educational facilities. This solution helps
+      tobacco companies comply with laws &amp; regulations.<br><br><strong>Features<br></strong>Google
       Maps Platform, Mapbox Maps, Server-side rendering<br><br><a href="https://goscope.netlify.com"
       title="GoScope App"><strong>Visit App</strong></a><strong> | </strong><a href="https://github.com/KyruCabading/GoScope"
       title="GoScope Github Repo"><strong>Github</strong></a>
