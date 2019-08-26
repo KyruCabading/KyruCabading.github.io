@@ -87,6 +87,17 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Thank you!
+- template: 2-column-text
+  block: two-column-1
+  col_2:
+    content: Showcases bar outlets within the Poblacion, Philippines Area. <br><br><strong>Why?</strong>
+      <br>Field executives use this tool to beautifully present their client's outlets
+      and gain more leads for business development<br><br><strong>Features<br></strong>Server-side
+      rendering, Google sheets Backend :D, chart visualizations, custom motion animations
+    headline: Brand Partners App
+  col_1:
+    headline: ''
+    content: ''
 
 ---
 foo bar
