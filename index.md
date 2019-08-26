@@ -96,7 +96,8 @@ page_sections:
   image: "/uploads/2019/08/18/code.png"
   col_2: <a href="https://ph.linkedin.com/in/kyrucabading" title="Kyru Cabading LinkedIn"><strong>LinkedIn</strong></a><strong><br><br></strong><a
     href="https://github.com/KyruCabading" title="Kyru Cabading's Github"><strong>Github</strong></a>
-  col_3: <a href="mailto:kyrusri@gmail.com" title=""><strong>Email</strong></a><strong><br>Resume</strong>
+  col_3: <a href="mailto:kyrusri@gmail.com" title=""><strong>Email</strong></a><strong><br><br></strong><a
+    href="" title=""><strong>Resume</strong></a>
   col_4: ''
 
 ---
