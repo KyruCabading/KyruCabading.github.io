@@ -41,7 +41,7 @@ page_sections:
     keeps the app lightning fast with server-side rendering. <br><br><strong>GraphQL</strong>
     helps ensure that data delivery can scale and evolve with the application. '
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/uploads/2019/08/26/block.jpg"
     alt_text: Customize Blocks
 - template: 2-column-text
   block: two-column-1
