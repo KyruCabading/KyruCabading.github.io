@@ -1,5 +1,8 @@
 ---
 main:
+- url: https://standardresume.co/r/1566796394775
+  weight: 4
+  title: Resume
 - url: https://github.com/KyruCabading
   weight: 3
   title: Github
