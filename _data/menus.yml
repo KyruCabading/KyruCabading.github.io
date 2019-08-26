@@ -1,5 +1,11 @@
 ---
 main:
+- url: https://github.com/KyruCabading
+  weight: 3
+  title: Github
+- url: https://ph.linkedin.com/in/kyrucabading
+  weight: 2
+  title: LinkedIn
 - identifier: home
   weight: 1
   title: Home
