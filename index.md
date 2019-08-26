@@ -50,16 +50,18 @@ page_sections:
       within the Poblacion, Philippines Area. <br><br><strong>Why?</strong> <br>Field
       executives use this tool to beautifully present their client's outlets and gain
       more leads for business development<br><br><strong>Features<br></strong>Server-side
-      rendering, Google sheets Backend :D, chart visualizations, custom motion animations<br><br><strong>View
-      | </strong><a href="https://github.com/KyruCabading/brand-partners" title=""><strong>Github</strong></a>
+      rendering, Google sheets Backend :D, chart visualizations, custom motion animations<br><br><strong>Visit
+      App | </strong><a href="https://github.com/KyruCabading/brand-partners" title=""><strong>Github
+      Repo</strong></a>
     headline: Brand Partners App
   col_1:
     headline: GoScope App
-    content: <img src="/uploads/2019/08/26/project-1-mini.jpg"><br>Monitors all schools/educational
-      facilities within a location<br><br><strong>Why?</strong> <br>Tobacco advertising
-      is prohibited within 100-meters of educational facilities. This solution helps
-      tobacco companies comply with laws &amp; regulations.<br><br><strong>Features<br></strong>Google
-      Maps Platform, Mapbox Maps, Server-side rendering<br><br><strong>View | Github</strong>
+    content: <br>Monitors all schools/educational facilities within a location<br><br><strong>Why?</strong>
+      <br>Tobacco advertising is prohibited within 100-meters of educational facilities.
+      This solution helps tobacco companies comply with laws &amp; regulations.<br><br><strong>Features<br></strong>Google
+      Maps Platform, Mapbox Maps, Server-side rendering<br><br><a href="https://goscope.netlify.com"
+      title="GoScope App"><strong>Visit App</strong></a><strong> | </strong><a href="https://github.com/KyruCabading/GoScope"
+      title="GoScope Github Repo"><strong>Github</strong></a>
 - template: content-feature
   block: feature-1
   media_alignment: Right
