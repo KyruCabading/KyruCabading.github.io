@@ -6,7 +6,13 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2019/08/18/code.png"
-  navigation: []
+  navigation:
+  - link: https://github.com/KyruCabading
+    link_text: Github
+  - link: https://ph.linkedin.com/in/kyrucabading
+    link_text: LinkedIn
+  - link: https://standardresume.co/r/1566796394775
+    link_text: Resume
   cta:
     url: mailto:kyrusri@gmail.com
     button_text: Contact
