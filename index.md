@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Kyru | Software Developer
+title: Portfolio
 date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
